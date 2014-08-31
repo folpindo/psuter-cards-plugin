@@ -1,0 +1,11 @@
+* text=auto !eol
+/LICENSE -text
+cards/__init__.py -text
+cards/core.py -text
+cards/htdocs/css/cards.css -text
+cards/htdocs/js/cards.js -text
+cards/macro.py -text
+cards/model.py -text
+cards/templates/cards_macro.html -text
+cards/upgrades/__init__.py -text
+/setup.py -text
