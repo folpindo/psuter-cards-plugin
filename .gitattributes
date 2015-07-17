@@ -8,4 +8,5 @@ cards/macro.py -text
 cards/model.py -text
 cards/templates/cards_macro.html -text
 cards/upgrades/__init__.py -text
+cards/upgrades/db2.py -text
 /setup.py -text
